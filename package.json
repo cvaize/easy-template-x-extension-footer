@@ -1,6 +1,6 @@
 {
   "name": "easy-template-x-extension-footer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Extension for package easy-template-x, only for nodejs",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/cvaize/easy-template-x-extension-footer.git"
   },
+  "keywords": [
+    "easy-template-x",
+    "docx",
+    "template",
+    "word",
+    "office",
+    "microsoft",
+    "ms"
+  ],
   "bugs": {
     "url": "https://github.com/cvaize/easy-template-x-extension-footer/issues"
   },
