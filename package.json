@@ -1,6 +1,6 @@
 {
   "name": "easy-template-x-extension-footer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Extension for package easy-template-x, only for nodejs",
   "main": "index.js",
   "scripts": {
